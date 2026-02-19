@@ -1,0 +1,30 @@
+.main{
+    border: 10px solid black;
+    height: 200px;
+    width: 300px;
+}
+.a{
+    height:75px;
+    width: 300px;
+    background-color: #75aadb
+}
+.b{
+    height:8.33px;
+    width: 300px;
+    background-color: #ffffff
+}
+.c{
+    height:33.33px;
+    width: 300px;
+    background-color: #000
+}
+.d{
+    height:8.33px;
+    width: 300px;
+    background-color: #ffffff
+}
+.e{
+    height:75px;
+    width: 300px;
+    background-color: #75aadb
+}
